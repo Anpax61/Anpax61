@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anpax61
 - 👀 I’m interested in getting familiar with FreeCad.
-- 🌱 I’m currently creRIBF 3D printing parts
+- 🌱 I’m currently creating 3D printing parts.
 - ⚡ Fun fact: Space, Astronomie, bikeing
 
 <!---
